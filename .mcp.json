@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "unity": {
+      "type": "stdio",
+      "command": "unity",
+      "args": [
+        "mcp",
+        "--project-path",
+        "C:\\Users\\Nitro V\\Unity\\RutaLibertadVR"
+      ],
+      "env": {}
+    }
+  }
+}
